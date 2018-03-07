@@ -1,0 +1,192 @@
+    1  ls
+    2  ls -a
+    3  ls -l
+    4  ls desktop/
+    5  ls desktop
+    6  pwd
+    7  sudo raspi-config
+    8  pwd
+    9  ls
+   10  ls -a
+   11  echo "hello"
+   12  man ls
+   13  ls
+   14  ls -a
+   15  ls -A
+   16  ls _b
+   17  ls-b
+   18  ls -b
+   19  ls -c
+   20  ls -d
+   21  man ls
+   22  man du
+   23  man ls
+   24  top
+   25  man pwd
+   26  ls
+   27  ls -v
+   28  du
+   29  du
+   30  top
+   31  man ls
+   32  man man
+   33  man man man man
+   34  man man man man man man man man man man man man man 
+   35  man top
+   36  man man
+   37  top
+   38  man
+   39  ls
+   40  man ls
+   41  man
+   42  ls
+   43  man ls
+   44  man
+   45  pwd
+   46  man
+   47  ls
+   48  man ls
+   49  man man top
+   50  man
+   51  pwd
+   52  man pwd
+   53  tp
+   54  du
+   55  man du
+   56  man
+   57  ls
+   58  ls'
+   59  cfn
+   60  dl
+   61  sdfkj
+   62  ds
+   63  s
+   64  sd
+   65  sd
+   66  sd
+   67  sd
+   68  ls
+   69  ls@
+   70  ls'
+   71  hi
+   72  man ls
+   73  du
+   74  man du
+   75  git status
+   76  die
+   77  man die
+   78  man man
+   79  du
+   80  nano
+   81  mkdir manhattan-zoo
+   82  cd manhattan-zoo
+   83  git init
+   84  touch meal-log.txt
+   85  git add meal-log.txt
+   86  git commit -m " Meallog
+   87  git commit --global user email "k.sihota1@share.epsb.ca
+   88  @
+   89  git commit --global user email "k.sihota1@share.epsb.ca"
+   90  git commit --global user.email "k.sihota1@share.epsb.ca"
+   91  git config --global user.email "k.sihota1@share.epsb.ca"D
+   92  git commit -m "meallog"
+   93  nano
+   94  git commit -m "meallog2"
+   95  git l;og
+   96  git log
+   97  git commit -m "meallog2"
+   98  las
+   99  ls
+  100  nano
+  101  git commit -m "meallog2"
+  102  git add meal-log.txt
+  103  git commit -m "meallog2"
+  104  nano
+  105  git add meal-log.txt
+  106  git commit -m "meallog3"
+  107  git log
+  108  nano
+  109  ls
+  110  pwd
+  111  mkdir manhattan-zoo
+  112  cd manhattan-zoo
+  113  nano
+  114  git add meal-log.txt
+  115  git commit -m "meat-log"
+  116  touch commit-history.txt
+  117  cd manhattan-zoo
+  118  git clone https://github.com/CompSci10/hello-world-git-assignment-KalenSihota.git
+  119  ls
+  120  cd hello-world-git-assignment-KalenSihota
+  121  git clone https://github.com/CompSci10/hello-world-git-assignment-KalenSihota.git
+  122  cd hello-world-git-assignment-alenSihota
+  123  cd hello-world-git-assignment-KalenSihota
+  124  ls
+  125  nano
+  126  git commit -m "fixed the turnips"
+  127  git branch myPoem
+  128  git checkout myPoem
+  129  ls
+  130  nano
+  131  git add poem.txt
+  132  git commit -m "changed animals because instructions'
+  133  q
+  134  q
+  135  q
+  136  q
+  137  q
+  138  git help
+  139  q
+  140  q
+  141  q
+  142  q
+  143  exit
+  144  git commit -m "changed animals because instructions"
+  145  q
+  146  q
+  147  q
+  148  q
+  149  q
+  150  git help
+  151  q
+  152  q
+  153  q
+  154  q
+  155  exit
+  156  qq
+  157  q
+  158  q
+  159  q
+  160  q
+  161  q
+  162  q
+  163  q
+  164  q
+  165  git branch
+  166  ls
+  167  cd hello-world-git-assignment-KalenSihota
+  168  git branch
+  169  git commit -m "changed animals because instructions"
+  170  nano
+  171  git add poem.txt
+  172  ls
+  173  cd hello-world-git-assignment-KalenSihota
+  174  git checkout myPoem
+  175  git tag
+  176  git show HEAD
+  177  nano
+  178  git add poem.txt
+  179  git commit -m "Change names because instructions
+"
+  180  git show HEAD
+  181  ls
+  182  git tag -a version2 -m "Improved version
+"
+  183  git checkout master
+  184  git merge myPoem
+  185  ls
+  186  nano
+  187  git add poem.txt
+  188  git commit -m "Revert to original because instructions"
+  189  terminal history > history.txt
+  190  history > history.txt
